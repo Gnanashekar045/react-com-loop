@@ -1,0 +1,48 @@
+{
+    "para": "ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Services": [
+        {
+            "Service": "Development"
+        },
+        {
+            "Service": "Busniess"
+        },
+        {
+            "Service": "Accounting"
+        },
+        {
+            "Service": "Arts & Design"
+        },
+        {
+            "Service": "Marketing"
+        }
+    ],
+    "Quicklinkses": [
+        {
+            "linkses": "Home"
+        },
+        {
+            "linkses": "About Us"
+        },
+        {
+            "linkses": "Services"
+        },
+        {
+            "linkses": "Blog"
+        },
+        {
+            "linkses": "Contact Us"
+        }
+    ],
+    "FindUs": [
+        {
+            "Us": "Marthandam"
+        },
+        {
+            "Us": "+91 9751791203"
+        },
+        {
+            "Us": "sales@smarteyeapps.com"
+        }
+    ]
+}
