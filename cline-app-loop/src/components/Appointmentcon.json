@@ -1,0 +1,37 @@
+{
+    "texth2": "We Are Always Ready to Help You. Book An Appointment",
+    "para": "Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts",
+    "itemlist": [
+        {
+            "list": "Department"
+        },
+        {
+            "list": "Cardiac Clinic"
+        },
+        {
+            "list": "Neurology"
+        },
+        {
+            "list": "Dentistry"
+        },
+        {
+            "list": "Gastroenterology"
+        }
+    ],
+    "Doclist": [
+        {
+            "listD": "Doctor"
+        },
+        {
+            "listD": "Dr. Akther Hossain"
+        },
+        {
+            "listD": "Dr. Dery Alex"
+        },
+        {
+            "listD": "Dr. Jovis Karon"
+        }
+    ]
+}
+
+

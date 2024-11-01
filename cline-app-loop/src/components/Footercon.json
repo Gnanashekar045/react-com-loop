@@ -1,0 +1,38 @@
+{
+    "navlist": [
+        {
+            "navitem": "Home"
+        },
+        {
+            "navitem": "About"
+        },
+        {
+            "navitem": "Services"
+        },
+        {
+            "navitem": "Our Cases"
+        },
+        {
+            "navitem": "Others"
+        }
+    ],
+    "deplist": [
+        {
+            "depitem": "Consulting"
+        },
+        {
+            "depitem": "Finance"
+        },
+        {
+            "depitem": "Testimonials"
+        },
+        {
+            "depitem": "FAQ"
+        },
+        {
+            "depitem": "Contact Us"
+        }
+    ],
+    "texth2": "About Us",
+    "para": "Lorem ipsum dolor sit am consectetur adipisicing elit do eiusmod tempor incididunt ut labore dolore magna."
+}
