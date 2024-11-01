@@ -54,7 +54,7 @@ class Schedule extends Component {
                                                 <li className="day">Saturday <span>9.00-18.30</span></li>
                                                 <li className="day">Monday - Thusday <span>9.00-15.00</span></li>
                                             </ul>
-                                            <a href="#">LEARN MORE<i className="fa fa-long-arrow-right"></i></a>
+                                            <a href="#">LEARN MOR<i className="fa fa-long-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
