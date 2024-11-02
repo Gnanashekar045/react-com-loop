@@ -1,0 +1,40 @@
+{
+    "para1": "123 Street, New York, USA",
+    "para2": "+012 345 67890",
+    "para3": "info@example.com",
+    "para4": "Dolor amet sit justo amet elitr clita ipsum elitr est.",
+    "Services": [
+        {
+            "spesalist": "Cardiology"
+        },
+        {
+            "spesalist": "Pulmonary"
+        },
+        {
+            "spesalist": "Neurology"
+        },
+        {
+            "spesalist": "Orthopedics"
+        },
+        {
+            "spesalist": "Laboratory"
+        }
+    ],
+    "quicklinks": [
+        {
+            "links": "About Us"
+        },
+        {
+            "links": "Contact Us"
+        },
+        {
+            "links": "Our Services"
+        },
+        {
+            "links": "Terms & Condition"
+        },
+        {
+            "links": "Support"
+        }
+    ]
+}
