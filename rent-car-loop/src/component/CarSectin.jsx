@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Carsectincon from './Carsectincon.json'
 
 
 class CarSection extends Component {
@@ -24,7 +25,7 @@ class CarSection extends Component {
                                     Choose Your Car
                                 </h5>
                                 <p>
-                                    It is a long established fact that a reader will be distracted by the readable content of a page when
+                                    {Carsectincon.para}
                                 </p>
                                 <a href="">
                                     Read More
@@ -40,7 +41,7 @@ class CarSection extends Component {
                                     Get Your Car
                                 </h5>
                                 <p>
-                                    It is a long established fact that a reader will be distracted by the readable content of a page when
+                                    {Carsectincon.para}
                                 </p>
                                 <a href="">
                                     Read More
@@ -56,7 +57,7 @@ class CarSection extends Component {
                                     Contact Your Dealer
                                 </h5>
                                 <p>
-                                    It is a long established fact that a reader will be distracted by the readable content of a page when
+                                    {Carsectincon.para}
                                 </p>
                                 <a href="">
                                     Read More
