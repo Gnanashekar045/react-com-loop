@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Clientcon from './Clientcon.json'
 
 class Client extends Component {
     render() {
@@ -20,7 +21,7 @@ class Client extends Component {
                                     <div className="box">
                                         <div className="detail-box">
                                             <p>
-                                                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem
+                                                {Clientcon.para}
                                             </p>
                                         </div>
                                         <div className="client_id">
@@ -43,7 +44,7 @@ class Client extends Component {
                                     <div className="box">
                                         <div className="detail-box">
                                             <p>
-                                                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem
+                                                {Clientcon.para}
                                             </p>
                                         </div>
                                         <div className="client_id">
@@ -66,7 +67,7 @@ class Client extends Component {
                                     <div className="box">
                                         <div className="detail-box">
                                             <p>
-                                                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem
+                                                {Clientcon.para}
                                             </p>
                                         </div>
                                         <div className="client_id">
@@ -89,7 +90,7 @@ class Client extends Component {
                                     <div className="box">
                                         <div className="detail-box">
                                             <p>
-                                                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem
+                                                {Clientcon.para}
                                             </p>
                                         </div>
                                         <div className="client_id">
