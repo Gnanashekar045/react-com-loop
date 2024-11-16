@@ -7,7 +7,7 @@ const ComingSoon = () => {
         minutes: '00',
         seconds: '00'
     });
-//useEffect to //
+//useEffect to content rendering//
     useEffect(() => {
         const countDownDate = new Date("Nov 17, 2024 00:00:00").getTime();
 
