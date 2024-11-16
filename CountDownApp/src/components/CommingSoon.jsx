@@ -36,7 +36,7 @@ const ComingSoon = () => {
         const interval = setInterval(updateTimer, 1000);
         return () => clearInterval(interval);
     }, []);
-
+//retern html//
     return (
         <div className="container">
             <img src="" alt="" />
