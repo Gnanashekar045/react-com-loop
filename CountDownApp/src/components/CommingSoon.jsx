@@ -32,7 +32,7 @@ const ComingSoon = () => {
                 seconds: seconds.toString().padStart(2, '0')
             });
         };
-
+//time intervel//
         const interval = setInterval(updateTimer, 1000);
         return () => clearInterval(interval);
     }, []);
